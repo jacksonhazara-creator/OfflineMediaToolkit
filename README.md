@@ -9,7 +9,7 @@ uploaded and no internet connection is needed (except for updates).
 - **PDF:** merge, split, compress, passwords, rotate / delete / reorder pages, page numbers & watermarks, extract
   pictures, make scans searchable (text recognition in 11 languages)
 - Queue, presets, a watch folder that converts new files by itself, drag & drop, right-click "Open with"
-- Three looks: Modern, Performance and iOS (Apple colours, pill buttons, coloured tool icons), each light or dark, with accent colours
+- Two looks: MedCon (dark greys) and Performance (navy, light or dark, no animations — the lightest on older PCs)
 - Updates itself
 
 ## Install
